@@ -54,7 +54,6 @@ The test will result in 2 passes and a fail.
 
   1. First test to sanity check merge and filter logic with valid default properties - `test_valid_action`
   2. Second test to sanity check merge and filter logic by setting arbitary values but valid Dtypes values for `ECSDSTXT` filter produces a frame with size 0 - `test_invalid_action`
-  
   3.Inavlid Dtype results in Type Error wehen `ECSDSTXT` is paased a `str` value of 200.
  
  
